@@ -60,11 +60,15 @@ nav li{
     font-size: 45px;
     color: #474747;
     font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .banner-title{
     font-size: 85px;
     color: #181818;
     font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .banner-p{
     font-size: 18px;
