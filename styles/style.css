@@ -75,3 +75,25 @@ nav li{
     color: #757575;
     font-weight: 400;
 }
+/* -------main------- */
+.section-title{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 35px;
+    color: #181818;
+    font-weight: 700;
+}
+/* -------about------- */
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0px;
+}
+.section-description{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    color:  #757575;
+    font-weight: 400;
+}
