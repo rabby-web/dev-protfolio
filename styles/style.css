@@ -169,3 +169,17 @@ main{
 .resume-colmun{
     margin: 10px;
 }
+.middle-btn{
+    text-align: center;
+}
+/* --------footer--------- */
+.footer{
+    background-color: #FFF8F3;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+}
+.foot-right .foot-left{
+    width: 40%;
+}
