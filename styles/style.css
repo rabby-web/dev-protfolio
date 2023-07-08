@@ -111,3 +111,25 @@ main{
 #what-i{
     padding: 20px 100px;
 }
+.skill-container{
+    display: flex;
+    padding: 10px;
+    gap: 24px;
+}
+.skill{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding: 20px;
+    border-radius: 8px;
+}
+.skill-title{
+    font-family: Open Sans;
+    font-size: 20px;
+    color: #181818;
+    font-weight: 700;
+}
+.skill-description{
+    font-family: Open Sans;
+    font-size: 16px;
+    color: #757575;
+    font-weight: 400;
+}
