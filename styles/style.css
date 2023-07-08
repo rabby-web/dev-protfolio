@@ -133,3 +133,33 @@ main{
     color: #757575;
     font-weight: 400;
 }
+/* -----resume------ */
+.resume-container{
+    display: flex;
+    justify-content: space-between;
+}
+.resume-column-title{
+    font-family: Open Sans;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 700;
+
+}
+.resume-item-title{
+    font-family: Open Sans;
+    font-size: 25px;
+    color: #474747;
+    font-weight: 700;
+}
+.resume-item-institute{
+    font-family: Open Sans;
+    font-size: 20px;
+    color: #474747;
+    font-weight: 600;
+}
+.resume-item-description{
+    font-family: Open Sans;
+    font-size: 16px;
+    color: #474747;
+    font-weight: 400;
+}
