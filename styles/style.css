@@ -163,3 +163,9 @@ main{
     color: #474747;
     font-weight: 400;
 }
+.resume-item{
+    padding: 5px;
+}
+.resume-colmun{
+    margin: 10px;
+}
