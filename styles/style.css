@@ -76,6 +76,10 @@ nav li{
     font-weight: 400;
 }
 /* -------main------- */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 .section-title{
     text-align: center;
     font-family: Open Sans;
@@ -96,4 +100,10 @@ nav li{
     font-size: 18px;
     color:  #757575;
     font-weight: 400;
+}
+.about-info-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
 }
