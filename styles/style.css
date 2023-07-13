@@ -226,3 +226,17 @@ textarea{
     padding: 10px;
     color: #FD6E0A;
 }
+
+.hide{
+    display: none;
+}
+/* -----------responsive layout-------------- */
+/* mobile device */
+@media screen and (max-width: 576px) {
+    .skill-container, .resume-container{
+        flex-direction: column;
+    }
+    #what-i{
+        padding: 20px;
+    }
+}
