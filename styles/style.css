@@ -227,9 +227,7 @@ textarea{
     color: #FD6E0A;
 }
 
-.hide{
-    display: none;
-}
+
 /* -----------responsive layout-------------- */
 /* mobile device */
 @media screen and (max-width: 576px) {
@@ -250,6 +248,26 @@ textarea{
     .about-info{
         display: flex;
         align-items: center;
+    }
+    .header{
+        background-image: none;
+    }
+    .banner{
+        flex-direction: column;
+        padding: 0px;
+        margin: 10px;
+    }
+    .banner img, .profile-picture{
+        /* width: 399px; */
+    }
+    .picss{
+        display: none;
+    }
+    nav > ul{
+        display: none;
+    }
+    .banner-title{
+        font-size: 50px;
     }
 }
 /* tablet device */
